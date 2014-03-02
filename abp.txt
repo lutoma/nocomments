@@ -1,0 +1,160 @@
+[Adblock Plus 2.0]
+! Homepage: https://nocomments.ohai.su/
+!
+! Please report any unblocked comment forms or problems
+! via e-mail (lutoma@ohai.su).
+!
+!-----------------------General comment blocking filters-----------------------!
+! *** nocomments:nocomments/abp.txt ***
+
+! Global
+!! Intense debate
+www.intensedebate.com/js/*
+www.intensedebate.com/remoteVisit.php*
+###idc-container-parent
+###idc-container
+
+!! Disqus
+disqus.com/embed.js
+###disqus_thread
+###dsq1
+###dsq2
+.disqus
+
+!! Livefyre
+zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js
+###fyre-comment-count
+###powered_by_livefyre_new
+
+!! Facebook commenting plugin
+!! (This only disables the facebook comment box sometimes found
+!! on some webpages. Facebook and comments on facebook itself
+!! still work just fine)
+
+facebook.com/plugins/comments.php
+
+
+! Site specific
+
+! International / English
+techcrunch.com##.comment-count,.comments
+theverge.com##.comment-count,#comments
+wsj.com###articleTabs_tab_comments,.boxlink-bubble boxlink-first,.comments
+cbsnews.com###postCommentsToggle,comments
+youtube.com###comments-view,.comments-pagination,#jumpToCommentsLink,#comments-loading,#comments-test-iframe
+dailymail.co.uk###reader-comments,.comments-link
+nytimes.com###datelineCommentCount,#readerscomment,#commentsContainer
+washingtonpost.com##.commentcount,.stream,.submitbox
+9gag.com###comment-section
+usatoday.com##.util-bar-comment-btn
+huffingtonpost.com##.comments,.comment_count
+abcnews.go.com##.comments
+reuters.com##.commentHolder,#commentContainer,.commentDisclaimer,.articleComments
+bloomberg.com##.comments_icon
+cnn.com##.cnn_stryswdgtbtm1
+theglobeandmail.com##.cmt
+gulfnews.com##.reader-comments,#readersComments
+ft.com###inferno-postform,#inferno-comments
+chicagotribune.com###fb-comments-notice
+nasdaq.com###articlecomments
+theinquirer.net###comments
+latimes.com###tugs_story_display,#message-guidelines,.nextgen-comment-count
+sbnation.com##.sbn-comments,.recommend-link-action
+theday.com###commentsViewAll,#readComments
+nydailynews.com##.goto-comments,#story-comments,#post-comment
+haaretz.com##article_comments,.commentsTile,.talkbacks
+digitaljournal.com##.social-tab-el
+theolympian.com###commentingStage
+sfgate.com##.pluck-login-comment-input,.pluck-login-comment-input-is-main,.pluck-comm-wrapper
+france24.com###comments,.commentbubble
+polygon.com##.vox-comments
+rt.com##.b-comments_page
+newsday.com###comments
+thetimesherald.com##.ody-comments
+businessinsider.com##.comments-open,.comment-form
+independent.co.uk##.gotocomments
+cbc.ca##.cbccomments
+vice.com##.comments
+theregister.co.uk##.comments-status
+macrobusiness.com.au###comments,.commentlist,#respond
+slate.com##.sl-article-tools-comments,.sl-chunky-comments,.sl-comments
+bbc.co.uk##.dna-comment-count-simple,.dna-comment-count-personal,.dna-comments_module
+boston.com###articleComments,.share-comments
+sbnation.com###comments,.m-comment-count__bubble
+cbc.ca###commentwrapper
+nbcnews.com##.comments_link
+mtv.com###comments
+salon.com##.widget
+news.yahoo.com##comments-list,#comments-postbox,#comments-filterbar,#comments-poll,#comments-sortbar,#mediacontentcomments,#collapsed-comments-show
+
+! Germany
+faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
+heise.de##.teaser_liste_foren,.kommentare,.news_foren,.large-forum
+m.heise.de##.foren_link
+morgenweb.de###article-comments
+spiegel.de##.spCommentsBox,.article-comments-box,.article-function-forum
+taz.de##.sect_commentlinks
+taz.de##.sect_article>div.secthead[role=heading]>ul[role=navigation]>.last
+wirsiegen.de###comments,.commentlist,#commentNotification
+berlin.piratenpartei.de##.replys,#replys
+gruene.de###tx-comments-pi1,.tx-comments-comments,#commentlist,.tx-comments-comment-form
+piratenpartei-hessen.de##.comment_add,.clear-box.box
+tagesspiegel.de##.hcf-comments,.hcf-services-comments,#commentInput,.hcf-count-comments
+sn-online.de###modul_kommentare
+news.de.msn.com###scplatformComments
+deutsche-wirtschafts-nachrichten.de###comments
+derwesten.de##.g_1of1
+tagesschau.de##.modConComments
+n24.de##div.e_023,div.write
+rtl.de###mediasetCommentWrapper,.fb-comments,.fb_iframe_widget
+mdr.de##.userComments
+gulli.com##._forumBox
+piratenpartei.de,popcornpiraten.de##.post-comments,.commentbubble
+sueddeutsche.de###comments,#jumpToCommentsLink
+brigitte.de##.comments
+bild.de##.board
+br.de##.c_tb_comment,#comments
+pcgames.de##.seperator2,.bubble_ticker
+focus.de###commentForm,#comments
+welt.de##.commentCount
+morgenpost.de##.articleComments,.socMedArtComment
+handelsblatt.com##.hcf-article-type2,#hcf-add-comment-container
+zdnet.de###comments,#wp_widget_nmi_recent_comments-4,#wp_widget_nmi_recent_comments-3,#wp_widget_nmi_recent_comments-2,#wp_widget_nmi_recent_comments-1
+t-online.de###TComments,div.Tcom
+img.community.t-online.de/script/extern/ww_ext_comment.js
+publikative.org###comments,.commentlist
+raumzeitlabor.de###comments,.leave-reply,.entry-meta.sep,.comments-link
+stadt-bremerhaven.de##.comments
+chefkoch.de##.recipe-comments
+abendzeitung-muenchen.de###comments
+ndr.de##.inpagecomments
+rp-online.de##.comment-list
+fr-online.de###commentsRoot,.Comment
+berliner-kurier.de###commentsRoot
+
+! Austria
+krone.at/krone/kmcom/set_cache__1/kmcom_xml.html
+http://static.krone.at/wcm/anmut/donau/facelift/kmcom*
+krone.at##.kmcom_content_outer
+derstandard.at,diestandard.at###communityCanvas
+salzburg.com##.move_comments,#displaycomment,#form_comment
+noen.at##.commenthead,#commentformbox,.commentbox
+nachrichten.at##.zusatz_kommentaranzahl,.artikeldiskussion-wrapper,.artikeldiskussion
+heute.at###commentPanel
+kurier.at###diskussion,.commentsbox,.commentcount
+oe24.at##.commentForm,.comments
+diepresse.com###newcommentform,.article_comment,.commentcount,.commentWrapper,.ic_comment
+tt.com##.articleDiscussion,.modul_comments_teaser
+wienerzeitung.at###em_article_comments,.em_comment_write
+
+! Switzerland
+20min.ch###talkback
+blick.ch###community_article_comments_default
+24heures.ch##.entireCommentForm,.noCommentsYet
+
+! France
+lepoint.fr###bloc_commentaire
+sports.fr###comments
+lefigaro.fr###reagir
+lemonde.fr###liste_reactions
+leparisien.fr###blocreactions
