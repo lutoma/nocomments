@@ -131,6 +131,7 @@ ndr.de##.inpagecomments
 rp-online.de##.comment-list
 fr-online.de###commentsRoot,.Comment
 berliner-kurier.de###commentsRoot
+ka-news.de###QuickRegCon
 
 ! Austria
 krone.at/krone/kmcom/set_cache__1/kmcom_xml.html
