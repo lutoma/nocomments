@@ -41,7 +41,6 @@ techcrunch.com##.comment-count,.comments
 theverge.com##.comment-count,#comments
 wsj.com###articleTabs_tab_comments,.boxlink-bubble boxlink-first,.comments
 cbsnews.com###postCommentsToggle,comments
-youtube.com###comments-view,.comments-pagination,#jumpToCommentsLink,#comments-loading,#comments-test-iframe
 dailymail.co.uk###reader-comments,.comments-link
 nytimes.com###datelineCommentCount,#readerscomment,#commentsContainer
 washingtonpost.com##.commentcount,.stream,.submitbox
