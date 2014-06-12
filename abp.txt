@@ -86,6 +86,7 @@ mtv.com###comments
 salon.com##.widget
 news.yahoo.com##comments-list,#comments-postbox,#comments-filterbar,#comments-poll,#comments-sortbar,#mediacontentcomments,#collapsed-comments-show
 trakt.tv###review-wrapper
+youtube.com##.comments-iframe-container
 
 ! Germany
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
