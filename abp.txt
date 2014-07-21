@@ -92,6 +92,7 @@ news.yahoo.com##comments-list,#comments-postbox,#comments-filterbar,#comments-po
 trakt.tv###review-wrapper
 youtube.com###comments-view,.comments-pagination,#jumpToCommentsLink,#comments-loading,#comments-test-iframe,#watch-discussion
 9gag.com###comments,.post-comment,.comment
+instagram.com##iMeasuredScrollContainer[top="222px"],.iComments,input[placeholder^="Leave a comment"]
 
 ! Germany
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
