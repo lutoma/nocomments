@@ -153,6 +153,7 @@ oe24.at##.commentForm,.comments
 diepresse.com###newcommentform,.article_comment,.commentcount,.commentWrapper,.ic_comment
 tt.com##.articleDiscussion,.modul_comments_teaser
 wienerzeitung.at###em_article_comments,.em_comment_write
+orf.at##.forum,#forumDisclaimer
 
 ! Switzerland
 20min.ch###talkback
