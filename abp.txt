@@ -92,6 +92,7 @@ salon.com##.widget
 news.yahoo.com##comments-list,#comments-postbox,#comments-filterbar,#comments-poll,#comments-sortbar,#mediacontentcomments,#collapsed-comments-show
 trakt.tv###review-wrapper
 youtube.com###comments-view,.comments-pagination,#jumpToCommentsLink,#comments-loading,#comments-test-iframe,#watch-discussion
+9gag.com###comments,.post-comment
 
 ! Germany
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
