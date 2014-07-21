@@ -33,6 +33,9 @@ zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js
 
 facebook.com/plugins/comments.php
 
+!! Google+ comments widget
+apis.google.com/u/*/_/widget/render/comments
+
 !! Wordpress
 ###comments
 ##.entry-comments
@@ -93,6 +96,7 @@ trakt.tv###review-wrapper
 youtube.com###comments-view,.comments-pagination,#jumpToCommentsLink,#comments-loading,#comments-test-iframe,#watch-discussion
 9gag.com###comments,.post-comment,.comment
 instagram.com##iMeasuredScrollContainer[top="222px"],.iComments,input[placeholder^="Leave a comment"]
+pinterest.com##.PinCommentList
 
 ! Germany
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
