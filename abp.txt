@@ -83,7 +83,7 @@ cbc.ca##.cbccomments
 vice.com##.comments
 theregister.co.uk##.comments-status
 macrobusiness.com.au###comments,.commentlist,#respond
-slate.com##.sl-article-tools-comments,.sl-chunky-comments,.sl-comments
+slate.com##.sl-article-tools-comments,.sl-chunky-comments,.sl-comments,.comments
 bbc.co.uk##.dna-comment-count-simple,.dna-comment-count-personal,.dna-comments_module
 boston.com###articleComments,.share-comments
 sbnation.com###comments,.m-comment-count__bubble
