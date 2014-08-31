@@ -101,7 +101,7 @@ aol.com##.article-comments,.aol-share-comments
 
 ! Germany
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
-heise.de##.teaser_liste_foren,.kommentare,.news_foren,.large-forum
+heise.de##.teaser_liste_foren,.kommentare,.news_foren,.large-forum,.link_forum_beitrag
 m.heise.de##.foren_link
 morgenweb.de###article-comments
 spiegel.de##.spCommentsBox,.article-comments-box,.article-function-forum
