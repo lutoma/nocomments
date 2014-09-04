@@ -98,6 +98,7 @@ youtube.com###comments-view,.comments-pagination,#jumpToCommentsLink,#comments-l
 instagram.com##iMeasuredScrollContainer[top="222px"],.iComments,input[placeholder^="Leave a comment"]
 pinterest.com##.PinCommentList
 aol.com##.article-comments,.aol-share-comments
+mic.com###comments
 
 ! Germany
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
