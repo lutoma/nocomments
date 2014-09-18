@@ -99,6 +99,7 @@ instagram.com##iMeasuredScrollContainer[top="222px"],.iComments,input[placeholde
 pinterest.com##.PinCommentList
 aol.com##.article-comments,.aol-share-comments
 mic.com###comments
+tulsaworld.com###user-comment-area
 
 ! Germany
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
