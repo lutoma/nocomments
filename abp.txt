@@ -39,6 +39,7 @@ apis.google.com/u/*/_/widget/render/comments
 !! Wordpress
 ###comments
 ##.entry-comments
+##.comment-entry 
 
 
 
