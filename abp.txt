@@ -163,6 +163,7 @@ diepresse.com###newcommentform,.article_comment,.commentcount,.commentWrapper,.i
 tt.com##.articleDiscussion,.modul_comments_teaser
 wienerzeitung.at###em_article_comments,.em_comment_write
 orf.at##.forum,#forumDisclaimer
+kleinezeitung.at###kommentaremain
 
 ! Switzerland
 20min.ch###talkback
