@@ -1,11 +1,14 @@
 [Adblock Plus 2.0]
 ! Homepage: https://nocomments.ohai.su/
 !
-! Please report any unblocked comment forms or problems
-! via e-mail (lutoma@ohai.su).
+! Please report any unblocked comment forms or problems (overblocking etc.) to:
+! lutoma@ohai.su
+!
+! You can also directly submit pull requests on github:
+! https://github.com/lutoma/nocomments
 !
 !-----------------------General comment blocking filters-----------------------!
-! *** nocomments:nocomments/abp.txt ***
+! *** nocomments/abp.txt ***
 
 ! Global
 !! Intense debate
