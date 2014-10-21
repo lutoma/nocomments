@@ -101,7 +101,7 @@ pinterest.com##.PinCommentList
 aol.com##.article-comments,.aol-share-comments
 mic.com###comments
 tulsaworld.com###user-comment-area
-thedailybeast.com#.comment-toggle,.comment-wrapper
+thedailybeast.com##.comment-toggle,.comment-wrapper
 
 ! Germany
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
