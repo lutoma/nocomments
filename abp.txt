@@ -48,7 +48,7 @@ apis.google.com/u/*/_/widget/render/comments
 
 ! Site specific
 
-! International / English
+! English
 techcrunch.com##.comment-count,.comments
 theverge.com##.comment-count,#comments
 wsj.com###articleTabs_tab_comments,.boxlink-bubble boxlink-first,.comments
@@ -106,7 +106,7 @@ mic.com###comments
 tulsaworld.com###user-comment-area
 thedailybeast.com##.comment-toggle,.comment-wrapper
 
-! Germany
+! German
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
 heise.de##.teaser_liste_foren,.kommentare,.news_foren,.large-forum,.link_forum_beitrag
 m.heise.de##.foren_link
@@ -152,8 +152,6 @@ fr-online.de###commentsRoot,.Comment
 berliner-kurier.de###commentsRoot
 ka-news.de###QuickRegCon
 lvz-online.de###getComments
-
-! Austria
 krone.at/krone/kmcom/set_cache__1/kmcom_xml.html
 http://static.krone.at/wcm/anmut/donau/facelift/kmcom*
 krone.at##.kmcom_content_outer
@@ -169,15 +167,13 @@ tt.com##.articleDiscussion,.modul_comments_teaser
 wienerzeitung.at###em_article_comments,.em_comment_write
 orf.at##.forum,#forumDisclaimer
 kleinezeitung.at###kommentaremain
-
-! Switzerland
 20min.ch###talkback
 blick.ch###community_article_comments_default
-24heures.ch##.entireCommentForm,.noCommentsYet
 
-! France
+! French
 lepoint.fr###bloc_commentaire
 sports.fr###comments
 lefigaro.fr###reagir
 lemonde.fr###liste_reactions
 leparisien.fr###blocreactions
+24heures.ch##.entireCommentForm,.noCommentsYet
