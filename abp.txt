@@ -22,7 +22,7 @@ disqus.com/embed.js
 ###disqus_thread
 ###dsq1
 ###dsq2
-.disqus
+##.disqus
 
 !! Livefyre
 zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js
