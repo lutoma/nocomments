@@ -36,12 +36,12 @@ facebook.com/plugins/comments.php
 !! Google+ comments widget
 apis.google.com/u/*/_/widget/render/comments
 
-!! Wordpress
+!! General CSS classes (Wordpress)
 ###comments
+##.comments
 ##.entry-comments
 ##.comment-entry 
-
-
+##.comment-count
 
 ! Site specific
 
