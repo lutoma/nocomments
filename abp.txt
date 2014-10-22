@@ -105,6 +105,7 @@ aol.com##.article-comments,.aol-share-comments
 mic.com###comments
 tulsaworld.com###user-comment-area
 thedailybeast.com##.comment-toggle,.comment-wrapper
+knowyourmeme.com###facebook_comments,#comments,aside>.comments,#comments_form
 
 ! German
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
