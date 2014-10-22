@@ -17,6 +17,6 @@
 !-----------------------General comment blocking filters-----------------------!
 ! *** nocomments/abp.txt ***
 
-facebook.com##.UFICommentWithPadding,input[value=Comment]
+facebook.com##.UFICommentWithPadding,input[value=Comment],a.feedbackBling
 twitter.com##.replies-to
 tweetdeck.twitter.com##.js-tweet-replies
