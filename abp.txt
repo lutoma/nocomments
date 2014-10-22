@@ -83,7 +83,7 @@ newsday.com###comments
 thetimesherald.com##.ody-comments
 businessinsider.com##.comments-open,.comment-form
 independent.co.uk##.gotocomments
-cbc.ca##.cbccomments
+cbc.ca##.cbccomments,.vf-counter,.icon_comments
 vice.com##.comments
 theregister.co.uk##.comments-status
 macrobusiness.com.au###comments,.commentlist,#respond
