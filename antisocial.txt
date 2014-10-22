@@ -1,0 +1,22 @@
+[Adblock Plus 2.0]
+!
+! THIS IS AN EXPERIMENTAL FILE NOT RECOMMENDED FOR USE
+!
+! Contrary to the normal file, it also removes "social" comments on sites like
+! Facebook (comments to posts), Twitter (replies to Tweets when viewing single
+! tweet) etc.
+!
+! Homepage: https://nocomments.ohai.su/
+!
+! Please report any unblocked comment forms or problems (overblocking etc.) to:
+! lutoma@ohai.su
+!
+! You can also directly submit pull requests on github:
+! https://github.com/lutoma/nocomments
+!
+!-----------------------General comment blocking filters-----------------------!
+! *** nocomments/abp.txt ***
+
+facebook.com##.UFICommentWithPadding,input[value=Comment]
+twitter.com##.replies-to
+tweetdeck.twitter.com##.js-tweet-replies
