@@ -106,6 +106,7 @@ mic.com###comments
 tulsaworld.com###user-comment-area
 thedailybeast.com##.comment-toggle,.comment-wrapper
 knowyourmeme.com###facebook_comments,#comments,aside>.comments,#comments_form
+iqra.ca###respond,.numberofcomments
 
 ! German
 faz.net##.StatusKommentare,.ArtikelKommentieren,a[name=comments],.ArtikelFunktion.Kommentieren
