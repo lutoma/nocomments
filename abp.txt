@@ -171,6 +171,7 @@ orf.at##.forum,#forumDisclaimer
 kleinezeitung.at###kommentaremain
 20min.ch###talkback
 blick.ch###community_article_comments_default
+rnz.de##.elementeback_output
 
 ! French
 lepoint.fr###bloc_commentaire
