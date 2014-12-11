@@ -133,7 +133,7 @@ gulli.com##._forumBox
 piratenpartei.de,popcornpiraten.de##.post-comments,.commentbubble
 sueddeutsche.de###comments,#jumpToCommentsLink
 brigitte.de##.comments
-bild.de##.board
+bild.de##.board,.btn-mood
 br.de##.c_tb_comment,#comments
 pcgames.de##.seperator2,.bubble_ticker
 focus.de###commentForm,#comments
@@ -180,3 +180,9 @@ lefigaro.fr###reagir
 lemonde.fr###liste_reactions
 leparisien.fr###blocreactions
 24heures.ch##.entireCommentForm,.noCommentsYet
+
+
+!! Exceptions
+
+! Bugzilla bugtrackers use .comments, but those should still be shown
+show_bug.cgi#@#comments
